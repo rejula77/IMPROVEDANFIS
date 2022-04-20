@@ -1,0 +1,3 @@
+open Main.m in matlab 	then run it
+
+Open Testing.m in matlab 	then run it
